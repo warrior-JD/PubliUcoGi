@@ -1,0 +1,3 @@
+module PubliUcoDTO {
+	requires PubliUcoCrossCutting;
+}
